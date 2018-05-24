@@ -1,0 +1,2 @@
+The file reverse.cpp reverses a set of numbers, entered without whitespace.
+The file stringRev.cpp reverses a set of strings, using the reverse() function in the STL (not from scratch).
